@@ -1,0 +1,271 @@
+locationKey,neighbourhoodGroup,neighbourhoodName
+1,City of Los Angeles,Adams-Normandie
+2,City of Los Angeles,Arleta
+3,City of Los Angeles,Arlington Heights
+4,City of Los Angeles,Atwater Village
+5,City of Los Angeles,Baldwin Hills/Crenshaw
+6,City of Los Angeles,Bel-Air
+7,City of Los Angeles,Beverly Crest
+8,City of Los Angeles,Beverly Grove
+9,City of Los Angeles,Beverlywood
+10,City of Los Angeles,Boyle Heights
+11,City of Los Angeles,Brentwood
+12,City of Los Angeles,Broadway-Manchester
+13,City of Los Angeles,Canoga Park
+14,City of Los Angeles,Carthay
+15,City of Los Angeles,Central-Alameda
+16,City of Los Angeles,Century City
+17,City of Los Angeles,Chatsworth
+18,City of Los Angeles,Chatsworth Reservoir
+19,City of Los Angeles,Chesterfield Square
+20,City of Los Angeles,Cheviot Hills
+21,City of Los Angeles,Chinatown
+22,City of Los Angeles,Cypress Park
+23,City of Los Angeles,Del Rey
+24,City of Los Angeles,Downtown
+25,City of Los Angeles,Eagle Rock
+26,City of Los Angeles,East Hollywood
+27,City of Los Angeles,Echo Park
+28,City of Los Angeles,El Sereno
+29,City of Los Angeles,Elysian Park
+30,City of Los Angeles,Elysian Valley
+31,City of Los Angeles,Encino
+32,City of Los Angeles,Exposition Park
+33,City of Los Angeles,Fairfax
+34,City of Los Angeles,Florence
+35,City of Los Angeles,Glassell Park
+36,City of Los Angeles,Gramercy Park
+37,City of Los Angeles,Granada Hills
+38,City of Los Angeles,Green Meadows
+39,City of Los Angeles,Griffith Park
+40,City of Los Angeles,Hancock Park
+41,City of Los Angeles,Hansen Dam
+42,City of Los Angeles,Harbor City
+43,City of Los Angeles,Harbor Gateway
+44,City of Los Angeles,Harvard Heights
+45,City of Los Angeles,Harvard Park
+46,City of Los Angeles,Highland Park
+47,City of Los Angeles,Historic South-Central
+48,City of Los Angeles,Hollywood
+49,City of Los Angeles,Hollywood Hills
+50,City of Los Angeles,Hollywood Hills West
+51,City of Los Angeles,Hyde Park
+52,City of Los Angeles,Jefferson Park
+53,City of Los Angeles,Koreatown
+54,City of Los Angeles,Lake Balboa
+55,City of Los Angeles,Lake View Terrace
+56,City of Los Angeles,Larchmont
+57,City of Los Angeles,Leimert Park
+58,City of Los Angeles,Lincoln Heights
+59,City of Los Angeles,Los Feliz
+60,City of Los Angeles,Manchester Square
+61,City of Los Angeles,Mar Vista
+62,City of Los Angeles,Mid-City
+63,City of Los Angeles,Mid-Wilshire
+64,City of Los Angeles,Mission Hills
+65,City of Los Angeles,Montecito Heights
+66,City of Los Angeles,Mount Washington
+67,City of Los Angeles,North Hills
+68,City of Los Angeles,North Hollywood
+69,City of Los Angeles,Northridge
+70,City of Los Angeles,Pacific Palisades
+71,City of Los Angeles,Pacoima
+72,City of Los Angeles,Palms
+73,City of Los Angeles,Panorama City
+74,City of Los Angeles,Pico-Robertson
+75,City of Los Angeles,Pico-Union
+76,City of Los Angeles,Playa Vista
+77,City of Los Angeles,Playa del Rey
+78,City of Los Angeles,Porter Ranch
+79,City of Los Angeles,Rancho Park
+80,City of Los Angeles,Reseda
+81,City of Los Angeles,San Pedro
+82,City of Los Angeles,Sawtelle
+83,City of Los Angeles,Sepulveda Basin
+84,City of Los Angeles,Shadow Hills
+85,City of Los Angeles,Sherman Oaks
+86,City of Los Angeles,Silver Lake
+87,City of Los Angeles,South Park
+88,City of Los Angeles,Studio City
+89,City of Los Angeles,Sun Valley
+90,City of Los Angeles,Sunland
+91,City of Los Angeles,Sylmar
+92,City of Los Angeles,Tarzana
+93,City of Los Angeles,Toluca Lake
+94,City of Los Angeles,Tujunga
+95,City of Los Angeles,University Park
+96,City of Los Angeles,Valley Glen
+97,City of Los Angeles,Valley Village
+98,City of Los Angeles,Van Nuys
+99,City of Los Angeles,Venice
+100,City of Los Angeles,Vermont Knolls
+101,City of Los Angeles,Vermont Square
+102,City of Los Angeles,Vermont Vista
+103,City of Los Angeles,Vermont-Slauson
+104,City of Los Angeles,Watts
+105,City of Los Angeles,West Adams
+106,City of Los Angeles,West Hills
+107,City of Los Angeles,West Los Angeles
+108,City of Los Angeles,Westchester
+109,City of Los Angeles,Westlake
+110,City of Los Angeles,Westwood
+111,City of Los Angeles,Wilmington
+112,City of Los Angeles,Windsor Square
+113,City of Los Angeles,Winnetka
+114,City of Los Angeles,Woodland Hills
+115,Other Cities,Agoura Hills
+116,Other Cities,Alhambra
+117,Other Cities,Arcadia
+118,Other Cities,Artesia
+119,Other Cities,Avalon
+120,Other Cities,Azusa
+121,Other Cities,Baldwin Park
+122,Other Cities,Bell
+123,Other Cities,Bell Gardens
+124,Other Cities,Bellflower
+125,Other Cities,Beverly Hills
+126,Other Cities,Bradbury
+127,Other Cities,Burbank
+128,Other Cities,Calabasas
+129,Other Cities,Carson
+130,Other Cities,Cerritos
+131,Other Cities,Claremont
+132,Other Cities,Commerce
+133,Other Cities,Compton
+134,Other Cities,Covina
+135,Other Cities,Cudahy
+136,Other Cities,Culver City
+137,Other Cities,Diamond Bar
+138,Other Cities,Downey
+139,Other Cities,Duarte
+140,Other Cities,El Monte
+141,Other Cities,El Segundo
+142,Other Cities,Gardena
+143,Other Cities,Glendale
+144,Other Cities,Glendora
+145,Other Cities,Hawaiian Gardens
+146,Other Cities,Hawthorne
+147,Other Cities,Hermosa Beach
+148,Other Cities,Hidden Hills
+149,Other Cities,Huntington Park
+150,Other Cities,Industry
+151,Other Cities,Inglewood
+152,Other Cities,Irwindale
+153,Other Cities,La Canada Flintridge
+154,Other Cities,La Habra Heights
+155,Other Cities,La Mirada
+156,Other Cities,La Puente
+157,Other Cities,La Verne
+158,Other Cities,Lakewood
+159,Other Cities,Lancaster
+160,Other Cities,Lawndale
+161,Other Cities,Lomita
+162,Other Cities,Long Beach
+163,Other Cities,Lynwood
+164,Other Cities,Malibu
+165,Other Cities,Manhattan Beach
+166,Other Cities,Maywood
+167,Other Cities,Monrovia
+168,Other Cities,Montebello
+169,Other Cities,Monterey Park
+170,Other Cities,Norwalk
+171,Other Cities,Palmdale
+172,Other Cities,Palos Verdes Estates
+173,Other Cities,Paramount
+174,Other Cities,Pasadena
+175,Other Cities,Pico Rivera
+176,Other Cities,Pomona
+177,Other Cities,Rancho Palos Verdes
+178,Other Cities,Redondo Beach
+179,Other Cities,Rolling Hills
+180,Other Cities,Rolling Hills Estates
+181,Other Cities,Rosemead
+182,Other Cities,San Dimas
+183,Other Cities,San Fernando
+184,Other Cities,San Gabriel
+185,Other Cities,San Marino
+186,Other Cities,Santa Clarita
+187,Other Cities,Santa Fe Springs
+188,Other Cities,Santa Monica
+189,Other Cities,Sierra Madre
+190,Other Cities,Signal Hill
+191,Other Cities,South El Monte
+192,Other Cities,South Gate
+193,Other Cities,South Pasadena
+194,Other Cities,Temple City
+195,Other Cities,Torrance
+196,Other Cities,Vernon
+197,Other Cities,Walnut
+198,Other Cities,West Covina
+199,Other Cities,West Hollywood
+200,Other Cities,Westlake Village
+201,Other Cities,Whittier
+202,Unincorporated Areas,Acton
+203,Unincorporated Areas,Agua Dulce
+204,Unincorporated Areas,Alondra Park
+205,Unincorporated Areas,Altadena
+206,Unincorporated Areas,Angeles Crest
+207,Unincorporated Areas,Athens
+208,Unincorporated Areas,Avocado Heights
+209,Unincorporated Areas,Castaic
+210,Unincorporated Areas,Castaic Canyons
+211,Unincorporated Areas,Charter Oak
+212,Unincorporated Areas,Citrus
+213,Unincorporated Areas,Del Aire
+214,Unincorporated Areas,Desert View Highlands
+215,Unincorporated Areas,East Compton
+216,Unincorporated Areas,East Los Angeles
+217,Unincorporated Areas,East Pasadena
+218,Unincorporated Areas,East San Gabriel
+219,Unincorporated Areas,East Whittier
+220,Unincorporated Areas,Elizabeth Lake
+221,Unincorporated Areas,Florence-Firestone
+222,Unincorporated Areas,Green Valley
+223,Unincorporated Areas,Hacienda Heights
+224,Unincorporated Areas,Hasley Canyon
+225,Unincorporated Areas,La Crescenta-Montrose
+226,Unincorporated Areas,Ladera Heights
+227,Unincorporated Areas,Lake Hughes
+228,Unincorporated Areas,Lake Los Angeles
+229,Unincorporated Areas,Lennox
+230,Unincorporated Areas,Leona Valley
+231,Unincorporated Areas,Littlerock
+232,Unincorporated Areas,Lopez/Kagel Canyons
+233,Unincorporated Areas,Marina del Rey
+234,Unincorporated Areas,Mayflower Village
+235,Unincorporated Areas,North El Monte
+236,Unincorporated Areas,North Whittier
+237,Unincorporated Areas,Northeast Antelope Valley
+238,Unincorporated Areas,Northwest Antelope Valley
+239,Unincorporated Areas,Northwest Palmdale
+240,Unincorporated Areas,Quartz Hill
+241,Unincorporated Areas,Rancho Dominguez
+242,Unincorporated Areas,Ridge Route
+243,Unincorporated Areas,Rowland Heights
+244,Unincorporated Areas,San Pasqual
+245,Unincorporated Areas,South Diamond Bar
+246,Unincorporated Areas,South San Gabriel
+247,Unincorporated Areas,South San Jose Hills
+248,Unincorporated Areas,South Whittier
+249,Unincorporated Areas,Southeast Antelope Valley
+250,Unincorporated Areas,Stevenson Ranch
+251,Unincorporated Areas,Sun Village
+252,Unincorporated Areas,Topanga
+253,Unincorporated Areas,Tujunga Canyons
+254,Unincorporated Areas,Unincorporated Catalina Island
+255,Unincorporated Areas,Unincorporated Santa Monica Mountains
+256,Unincorporated Areas,Unincorporated Santa Susana Mountains
+257,Unincorporated Areas,Universal City
+258,Unincorporated Areas,Val Verde
+259,Unincorporated Areas,Valinda
+260,Unincorporated Areas,Veterans Administration
+261,Unincorporated Areas,View Park-Windsor Hills
+262,Unincorporated Areas,Vincent
+263,Unincorporated Areas,Walnut Park
+264,Unincorporated Areas,West Carson
+265,Unincorporated Areas,West Compton
+266,Unincorporated Areas,West Puente Valley
+267,Unincorporated Areas,West Whittier-Los Nietos
+268,Unincorporated Areas,Westmont
+269,Unincorporated Areas,Whittier Narrows
+270,Unincorporated Areas,Willowbrook
