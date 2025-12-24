@@ -6,6 +6,7 @@ This project is a Data Warehouse and ETL pipeline for Airbnb listings in Los Ang
 The goal is to provide a clean, queryable dataset for visualizations, analysis of listings, reviews, hosts, and locations—without needing raw CSVs every time.
 
 🛠️ ETL Process Summary
+
 1️⃣ Ingestion
 
 Load raw CSV files into staging tables:
